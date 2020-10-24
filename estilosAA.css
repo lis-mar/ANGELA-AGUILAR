@@ -1,0 +1,23 @@
+h1{
+    background-color: violet;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+img{
+width:200px;
+float: left;
+margin-right: 5px;
+margin-top: 0px;
+margin-left: 0px;
+}
+video{
+    width: 400px;
+    float: right;
+    width: 20%;
+    margin-top: 30px;
+}
